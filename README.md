@@ -1,7 +1,7 @@
 wassup im im TierTheTora
 i like python and making websites using JS, CSS and HTML :)
 
-
+i am not very smart
 
 h
 
