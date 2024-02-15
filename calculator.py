@@ -1,4 +1,5 @@
 #python calculator
+#use * for times / for divide + for plus and - for minus
 def numberone():
     num1 = input("Input first number: ")
     try:
