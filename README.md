@@ -1,7 +1,7 @@
 <details>
   
   <summary>
-    ## Languages
+    Languages
   </summary>
 
    - JavaScript, HTML, CSS
