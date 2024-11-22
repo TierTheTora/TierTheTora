@@ -7,6 +7,7 @@
    - JavaScript, HTML, CSS
    - Python
    - C++
+   - C#
    - Windows batch script
 
 </details>
