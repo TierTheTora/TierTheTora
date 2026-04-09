@@ -1,0 +1,22 @@
+[font]
+size = 16.0
+
+[font.bold]
+family = "FantasqueSansM Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "FantasqueSansM Nerd Font"
+style = "Bold Italic"
+
+[font.italic]
+family = "FantasqueSansM Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "FantasqueSansM Nerd Font"
+style = "Regular"
+
+[shell]
+program = "/usr/bin/tmux"
+args = ["new-session", "-A", "-s", "alacritty"]
