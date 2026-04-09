@@ -1,0 +1,2 @@
+- i like c
+- i use neovim btw
