@@ -1,5 +1,6 @@
 *
 !nvim/
 !alacritty/
+!.tmux.conf
 !README.md
 !.gitignore
