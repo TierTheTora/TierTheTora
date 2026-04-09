@@ -1,0 +1,9 @@
+vim.o.number = true;
+vim.o.relativenumber = true;
+vim.opt.mouse = "";
+vim.api.nvim_set_hl(0, "ErrorMsg", { bg = "NONE" });
+vim.api.nvim_set_hl(0, "WarningMsg", { bg = "NONE" });
+vim.api.nvim_set_hl(0, "MsgArea", { bg = "NONE" });
+vim.opt.guicursor = "n-v-c:block";
+vim.opt.expandtab = false;
+vim.opt.tabstop = 8
