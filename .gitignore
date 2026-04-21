@@ -1,6 +1,9 @@
 *
 !nvim/
+!nvim/*
 !alacritty/
+alacritty/themes
+!alacritty/*
 !.tmux.conf
 !README.md
 !.gitignore
