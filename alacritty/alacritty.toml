@@ -1,3 +1,7 @@
+import = [
+	"~/.config/alacritty/themes/themes/tokyo_night_enhanced.toml"
+]
+
 [font]
 size = 16.0
 
