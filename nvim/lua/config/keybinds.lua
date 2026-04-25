@@ -15,4 +15,7 @@ vim.keymap.set('n', '<tab>', '<Cmd>BufferNext<CR>')
 vim.keymap.set('n', '<S-tab>', '<Cmd>BufferPrevious<CR>')
 
 vim.keymap.set('n', '<leader>,', ':enew<CR>')
-vim.keymap.set('n', '<leader>.', '<Cmd>BufferClose<CR>')
+vim.keymap.set('n', '<leader>.', '<Cmd>BufferClose!<CR>')
+
+vim.keymap.set('t', '<Esc>', '<C-\\><C-n>')
+vim.keymap.set('n', 't', ':term<CR>')
